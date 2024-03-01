@@ -1,6 +1,7 @@
 # Hello World, I'm Miguel, be very welcome
 
 <table>
+  <h1>🚀 Minhas Skills <h1>
   <a href="https://github.com/miguelblirussi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelblirussi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelblirussi&layout=compact&langs_count=6&theme=tokyonight"/>
