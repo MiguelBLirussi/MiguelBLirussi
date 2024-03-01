@@ -1,6 +1,9 @@
-### Hi there 👋
+### Olá, meu nome é Miguel Barreto
 
-<!--
+###🚀 Minhas Skills
+
+![image](https://github.com/MiguelBLirussi/MiguelBLirussi/assets/136033485/85f50b8c-21bf-4301-9dc5-5e216d9a0307)
+
 **MiguelBLirussi/MiguelBLirussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
